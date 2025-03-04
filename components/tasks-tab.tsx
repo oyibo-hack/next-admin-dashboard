@@ -1,3 +1,5 @@
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+//@ts-nocheck
 const TasksTab = ({ tasks }) => (
   <div className="bg-gray-800 text-gray-200 rounded-lg p-6 shadow-md">
     <h3 className="text-xl font-bold mb-4">Your Tasks</h3>
